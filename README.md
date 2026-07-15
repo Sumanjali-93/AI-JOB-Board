@@ -1,4 +1,4 @@
-# ⚡ TalentAI — AI-Powered Job Board
+# AI-Powered Job Board
 
 A full-stack MERN application with OpenAI integration for intelligent candidate-job matching and auto-generated personalised cover letters.
 
